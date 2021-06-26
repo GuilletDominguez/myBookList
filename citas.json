@@ -1,0 +1,289 @@
+[
+  {
+    "id": 1,
+    "cita": "“El momento que da más miedo es siempre justo antes de empezar.”",
+    "autor": "Albert Einstein",
+    "vida": "1879 – 1955",
+    "Oficio": "Físico alemán"
+  },
+  {
+    "id": 2,
+    "cita": "Sólo los tontos se adaptan a la vida; los inteligentes tratan de adaptar la vida para ellos",
+    "autor": "George Bernard Shaw",
+    "vida": "1856 – 1950",
+    "Oficio": "Escritor irlandés"
+  },
+  {
+    "id": 3,
+    "cita": "Cuanto más grandes somos en humildad, tanto más cerca estamos de la grandeza",
+    "autor": "Rabindranath Tagore",
+    "vida": "1861 – 1941",
+    "Oficio": "Poeta bengalí, filósofo, artista, dramaturgo, músico y novelista"
+  },
+  {
+    "id": 4,
+    "cita": "No ser amado es una simple desventura. La verdadera desgracia es no saber amar",
+    "autor": "Albert Camus",
+    "vida": "1913 – 1960",
+    "Oficio": "Novelista, ensayista, dramaturgo y filósofo francés nacido en Argelia"
+  },
+  {
+    "id": 5,
+    "cita": "Ningún camino de flores conduce hasta la gloria",
+    "autor": "Johann Wolfgang von Goethe",
+    "vida": "1749 – 1832",
+    "Oficio": "Poeta, novelista, dramaturgo y científico alemán"
+  },
+  {
+    "id": 6,
+    "cita": "Vacía tu bolsillo en tu mente y tu mente llenará tu bolsillo",
+    "autor": "Benjamin Franklin",
+    "vida": "1706 – 1790",
+    "Oficio": "Político, científico e inventor estadounidense"
+  },
+  {
+    "id": 7,
+    "cita": "Nunca permitas que tus conquistas te conquisten ni que tus derrotas te derroten",
+    "autor": "Napoleón Bonaparte",
+    "vida": "1769 – 1821",
+    "Oficio": "Militar y gobernante francés"
+  },
+  {
+    "id": 8,
+    "cita": "Odiar es un despilfarro del corazón y el corazón es nuestro mayor tesoro",
+    "autor": "Noel Clarasó",
+    "vida": "1899 – 1985",
+    "Oficio": "Escritor español"
+  },
+  {
+    "id": 9,
+    "cita": "Ignoramos nuestra verdadera estatura hasta que nos ponemos en pie",
+    "autor": "Emily Dickinson",
+    "vida": "1830 – 1886",
+    "Oficio": "Poetisa estadounidense"
+  },
+  {
+    "id": 10,
+    "cita": "El modo de dar una vez en el clavo es dar cien veces en la herradura",
+    "autor": "Miguel de Unamuno",
+    "vida": "1864 – 1936",
+    "Oficio": "Escritor y filósofo español"
+  },
+  {
+    "id": 11,
+    "cita": "No es porque las cosas sean difíciles que no nos atrevemos, es porque no nos atravemos que son difíciles",
+    "autor": "Séneca",
+    "vida": "4 a.C – 65",
+    "Oficio": "Filósofo, político, orador y escritor romano"
+  },
+  {
+    "id": 12,
+    "cita": "Dar un vaso de agua a cambio de un vaso de agua no es nada; la verdadera grandeza consiste en devolver el bien por el mal",
+    "autor": "Mahatma Gandhi",
+    "vida": "1869 – 1948",
+    "Oficio": "Abogado, pensador y político indio"
+  },
+  {
+    "id": 13,
+    "cita": "Lo que no quieras que otros te hagan, no lo hagas a otros",
+    "autor": "Confucio",
+    "vida": "551 a.C. - 479 a.C.",
+    "Oficio": "Filósofo chino"
+  },
+  {
+    "id": 14,
+    "cita": "Todo lo que vale la pena en la vida se reduce a una sola cosa y eso es el AMOR",
+    "autor": "John Lennon",
+    "vida": "551 a.C. - 479 a.C.",
+    "Oficio": "Cantante"
+  },
+  {
+    "id": 15,
+    "cita": "Aunque un hombre conquiste mil veces a mil hombres en una batalla, el mejor guerrero es aquel que se conquista a sí mismo",
+    "autor": "Buda",
+    "vida": "551 a.C. - 479 a.C.",
+    "Oficio": "Iluminado"
+  },
+  {
+    "id": 16,
+    "cita": "El que es incapaz de perdonar es incapaz de amar",
+    "autor": "Martin Luther King",
+    "vida": "551 a.C. - 479 a.C.",
+    "Oficio": "Activista"
+  },
+  {
+    "id": 17,
+    "cita": "No me crean nada de lo que digo, investiguen y creanse a ustedes mismos",
+    "autor": "Morféo de Gea",
+    "vida": "551 a.C. - 479 a.C.",
+    "Oficio": "Amasterdamo"
+  },
+ {
+    "id": 18,
+    "cita": "La conciencia es la presencia de Dios en el hombre",
+    "autor": "Victor Hugo",
+    "vida": "1802-1885",
+    "Oficio": "Novelista Francés"
+  },
+  {
+    "id": 19,
+    "cita": "Preferiría la paz más injusta a la más justa de las guerras",
+    "autor": "Cicerón",
+    "vida": "1802-1885",
+    "Oficio": ""
+  },
+   {
+    "id": 20,
+    "cita": "La esencia de la vida espiritual está formada por nuestros sentimientos y nuestras actitudes hacia los demás",
+    "autor": "Dalai Lama",
+    "vida": "1802-1885",
+    "Oficio": ""
+  },
+  {
+    "id": 21,
+    "cita": "Si nosotros somos tan dados a juzgar a los demás, es debido a que temblamos por nosotros mismos",
+    "autor": "Oscar Wilde",
+    "vida": "1802-1885",
+    "Oficio": "Escritor"
+  },
+  {
+    "id": 22,
+    "cita": "El ignorante afirma, el sabio duda y reflexiona",
+    "autor": "Aristóteles",
+    "vida": "1802-1885",
+    "Oficio": "Filósofo"
+  },
+  {
+    "id": 23,
+    "cita": "¿Por qué miras la paja que hay en el ojo de tu hermano y no ves la viga que está en el tuyo?",
+    "autor": "Jesús de Nazaret",
+    "vida": "0-33",
+    "Oficio": "Cristo"
+  },
+  {
+    "id": 24,
+    "cita": "No existe el bien ni el mal en sí mismos, sino es la misma mente humana la cual los genera",
+    "autor": "William Shakespeare",
+    "vida": "",
+    "Oficio": "Escritor"
+  },
+  {
+    "id": 25,
+    "cita": "Hay tres cosas extremadamente duras: el acero, los diamantes y el conocerse a uno mismo",
+    "autor": "Benjamin Franklin",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 26,
+    "cita": "La duda es uno de los nombres de la inteligencia",
+    "autor": "Jorge Luis Borges",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 27,
+    "cita": "No es hasta que estamos perdidos que comenzamos a comprendernos a nosotros mismos",
+    "autor": "Henry David Thoreau",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 28,
+    "cita": "¿Conocerme a mí mismo? Si lo hiciera, saldría corriendo espantado",
+    "autor": "Johann Wolfgang von Goethe",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 29,
+    "cita": "El hombre que tiene la misma visión sobre el mundo a los cincuenta años que a los veinte, ha desperdiciado treinta años de su vida",
+    "autor": "Muhammad Ali",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 30,
+    "cita": "El único viaje es el viaje interior",
+    "autor": "Rainer Maria Rilke",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 31,
+    "cita": "El hombre que más ha vivido no es aquél que más años ha cumplido, sino aquel que más ha experimentado la vida",
+    "autor": "Jean-Jacques Rousseau",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 32,
+    "cita": "El que esté libre de culpa que tire la primera piedra",
+    "autor": "Jesús de Nazaret",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 33,
+    "cita": "Cuando me preguntaron sobre algún arma capaz de contrarrestar el poder de la bomba atómica yo sugerí la mejor de todas: La paz",
+    "autor": "Albert Einstein",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 34,
+    "cita": "Adentro del Vaticano está todo forrado de oro y afuera los pibes se están muriendo de hambre",
+    "autor": "Diego Armando Maradona",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 35,
+    "cita": "De todos los animales de la creación el hombre es el único que bebe sin tener sed, come sin tener hambre y habla sin tener nada que decir",
+    "autor": "John Steinbeck",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 36,
+    "cita": "",
+    "autor": "",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 37,
+    "cita": "¿Qué es el dinero?, piedra y papel. Absurdo",
+    "autor": "Gary",
+    "vida": "1977-?",
+    "Oficio": ""
+  },
+  {
+    "id": 38,
+    "cita": "Hemos aprendido a volar como los pájaros, a nadar como los peces, pero no hemos aprendido el arte de vivir juntos, como hermanos",
+    "autor": "Martin Luther King",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 39,
+    "cita": "No estoy de acuerdo con lo que dices, pero hasta con la vida defendere el derecho que tienes de decir lo que piensas",
+    "autor": "Voltaire",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 40,
+    "cita": "Solo hay un bien: el conocimiento. Solo hay un mal: la ignorancia",
+    "autor": "Sócrates",
+    "vida": "470 AC-399 AC",
+    "Oficio": "Filósofo griego"
+  },
+  {
+    "id": 41,
+    "cita": "Según vamos adquiriendo conocimiento, las cosas no se hacen más comprensibles, sino más misteriosas",
+    "autor": "Albert Schweitzer",
+    "vida": "1875-1965",
+    "Oficio": "Filósofo, médico y escritor alemán"
+  }
+]
