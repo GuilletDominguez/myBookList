@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "cita": "“El momento que da más miedo es siempre justo antes de empezar.”",
-    "autor": "Albert Einstein",
-    "vida": "1879 – 1955",
-    "Oficio": "Físico alemán"
+    "cita": "“Nada en la vida debe ser temido, solamente debe ser comprendido. Ahora es el momento de comprender más, para poder temer menos”.",
+    "autor": "Marie Curie",
+    "vida": "1867 – 1934",
+    "Oficio": "Cientifica"
   },
   {
     "id": 2,
-    "cita": "Sólo los tontos se adaptan a la vida; los inteligentes tratan de adaptar la vida para ellos",
-    "autor": "George Bernard Shaw",
+    "cita": "“Cuando salgas de la tormenta, ya no serás la misma persona que había entrado en ella. En eso consiste la tormenta”.",
+    "autor": "Haruki Murakami",
     "vida": "1856 – 1950",
     "Oficio": "Escritor irlandés"
   },
@@ -286,4 +286,36 @@
     "vida": "1875-1965",
     "Oficio": "Filósofo, médico y escritor alemán"
   }
+  
+  {  
+    "id": 42,
+    "cita": "Si buscas resultados diferentes, no hagas siempre lo mismo",
+    "autor": "Albert Einstein",
+    "vida": "1879 – 1955",
+    "Oficio": "Físico alemán"
+  },
+  {
+    "id": 43,
+    "cita": "Sólo los tontos se adaptan a la vida; los inteligentes tratan de adaptar la vida para ellos",
+    "autor": "George Bernard Shaw",
+    "vida": "1856 – 1950",
+    "Oficio": "Escritor irlandés"
+  },
+
+  {
+    "id": 44,
+    "cita": "“Si quieres el arcoíris, tienes que soportar la lluvia”",
+    "autor": "Dolly Parton",
+    "vida": "1879 – 1955",
+    "Oficio": "Físico alemán"
+  },
+  {
+    "id": 45,
+    "cita": "“En medio de la dificultad se esconde la oportunidad”",
+    "autor": "Albert Einstein",
+    "vida": "1856 – 1950",
+    "Oficio": "Escritor irlandés"
+  },
+  
+
 ]
