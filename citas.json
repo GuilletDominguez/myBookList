@@ -314,6 +314,33 @@
     "autor": "Albert Einstein",
     "vida": "1856 – 1950",
     "Oficio": "Escritor irlandés"
+  },
+   {
+    "id": 46,
+    "cita": "“Hacerte invencible significa conocerte a ti mismo.”",
+    "autor": "Sun Tzu",
+    "vida": "1879 – 1955",
+    "Oficio": "Físico alemán"
+  },
+   {
+    "id": 47,
+    "cita": "“Si quieres el arcoíris, tienes que soportar la lluvia”",
+    "autor": "Dolly Parton",
+    "vida": "1879 – 1955",
+    "Oficio": "Físico alemán"
+  },
+   {
+    "id": 48,
+    "cita": "“Cuando pierdas, no pierdas la lección”",
+    "autor": "Dalai Lama",
+    "vida": "1879 – 1955",
+    "Oficio": "Físico alemán"
+  },
+   {
+    "id": 49,
+    "cita": "“Si la oportunidad no llama, construye una puerta”",
+    "autor": "Milton Berle",
+    "vida": "1879 – 1955",
+    "Oficio": "Físico alemán"
   }
-  
 ]
